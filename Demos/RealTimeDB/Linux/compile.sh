@@ -1,4 +1,3 @@
 
-g++ -I ../../../Include -o SonyEmbeddedDB ../Windows/SonyEmbeddedDB/SonyEmbeddedDB.cpp -ldl -lpthread
+g++ -I ../../../Include -o RealTimeDBTest ../Windows/RealTimeDBTest/RealTimeDBTest.cpp -ldl -lpthread
 
-g++ -I ../../../Include -o SonyHyperServer ../Windows/SonyHyperServer/SonyHyperServer.cpp -ldl -lpthread
